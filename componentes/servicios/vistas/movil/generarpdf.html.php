@@ -1,0 +1,1 @@
+<iframe src="http://siom.oximeiser.com/archivos/oximeiser/servicios/080416064046/recibos-equipos/000014-5708419220698.pdf" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>

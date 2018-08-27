@@ -1,0 +1,130 @@
+
+
+.content.error {
+    padding: 0px;
+    margin: 0px;
+    height: auto;
+    text-align: center;
+}
+
+.content.error .mensaje{
+}
+.content.error #info{
+    float: right;
+    position: relative;
+    height: 0px;
+    width: 48%;
+    top: 20px;
+    right: 2%;
+    -ms-transform: skew( 3deg, 4deg) rotateY(3deg) rotateX(2deg) ; /* IE 9 */
+    -webkit-transform: skew( 3deg, 4deg) rotateY(3deg) rotateX(2deg) ; /* Chrome, Safari, Opera */
+    transform: skew( 3deg, 4deg) rotateY(-3deg) rotateX(0deg) ;
+    font-size: 80%;        
+}
+
+#error  .content{
+    text-align:center;
+    padding: 25px 0px 0px 0px;
+    margin: 0px 12px;
+}
+#error  .content p{
+    margin: 0px 0px 22px 0px;
+}
+#error  .content p{
+    font-family: "Century Gothic";
+    font-size: 1em;
+    color:#666;
+    text-align:center;
+}
+#error  .content  span,.logo h1 a{
+    color:#e54040;
+}
+#error  .content span{
+    font-size: 1.5em;
+}
+#error  .content a{
+    color:#fff;
+    font-family: "Century Gothic";
+    background: #666666; /* Old browsers */
+    padding: 8px 17px;
+}
+#error  .content a:hover{
+    color:#e54040;
+}
+#error .logo{
+    text-align:center;
+}
+#error .logo h1{
+    font-size:2em;
+    font-family: "Century Gothic";
+    background: #666666; /* Old browsers */
+    padding: 10px;
+}
+#error .logo h1 a{
+    font-size:1em;
+}
+#error .copy-right{
+    padding-top:20px;
+}
+#error .copy-right p{
+    font-size:0.9em;
+}
+#error .copy-right p a{
+    background:none;
+    color:#e54040;
+    padding:0px 0px 5px 0px;
+    font-size:0.9em;
+}
+#error .copy-right p a:hover{
+    color:#666;
+}
+
+
+#error .mensaje {
+    width: 40%; 
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+=================================================================
+(#m08res) RESPONSIVE
+=================================================================
+*/
+
+
+
+/* Mobile up to landscape tablet */
+@media (max-width: 979px) {
+    #error .mensaje {
+        width: 60%; 
+        margin: auto;
+    }
+
+}
+
+/* Mobile up to portrait tablet */
+@media (max-width: 767px) {
+    #error .mensaje {
+        width: 80%; 
+        margin: auto;
+    }
+
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+    #error .mensaje {
+        width: 100%; 
+        margin: auto;
+    }
+}

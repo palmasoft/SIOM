@@ -1,0 +1,113 @@
+@font-face {
+    font-family: "Flaticon-soporte";
+    src: url("fonts/flaticon-soporte/flaticon.eot");
+    src: url("fonts/flaticon-soporte/flaticon.eot#iefix") format("embedded-opentype"),
+        url("fonts/flaticon-soporte/flaticon.woff") format("woff"),
+        url("fonts/flaticon-soporte/flaticon.ttf") format("truetype"),
+        url("fonts/flaticon-soporte/flaticon.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+[class^="flaticon-soporte-"]:before, [class*=" flaticon-soporte-"]:before,
+[class^="flaticon-soporte-"]:after, [class*=" flaticon-soporte-"]:after {   
+    
+  display:inline-block;
+  font:normal normal normal 14px/1 Flaticon-soporte;
+  font-size:inherit;
+  text-rendering:auto;
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+  transform:translate(0, 0)
+}
+
+.flaticon-soporte-bugs3:before {
+    content: "\e000";
+}
+.flaticon-soporte-callcenter:before {
+    content: "\e001";
+}
+.flaticon-soporte-checking3:before {
+    content: "\e002";
+}
+.flaticon-soporte-cloudcomputing1:before {
+    content: "\e003";
+}
+.flaticon-soporte-cogwheel46:before {
+    content: "\e004";
+}
+.flaticon-soporte-cogwheels11:before {
+    content: "\e005";
+}
+.flaticon-soporte-cogwheels12:before {
+    content: "\e006";
+}
+.flaticon-soporte-cogwheels13:before {
+    content: "\e007";
+}
+.flaticon-soporte-computermonitor2:before {
+    content: "\e008";
+}
+.flaticon-soporte-computerscreen14:before {
+    content: "\e009";
+}
+.flaticon-soporte-customerservice10:before {
+    content: "\e00a";
+}
+.flaticon-soporte-customerservice11:before {
+    content: "\e00b";
+}
+.flaticon-soporte-customerservice12:before {
+    content: "\e00c";
+}
+.flaticon-soporte-customerservice13:before {
+    content: "\e00d";
+}
+.flaticon-soporte-deliverytruck2:before {
+    content: "\e00e";
+}
+.flaticon-soporte-gear80:before {
+    content: "\e00f";
+}
+.flaticon-soporte-hammer6:before {
+    content: "\e010";
+}
+.flaticon-soporte-hammers8:before {
+    content: "\e011";
+}
+.flaticon-soporte-help9:before {
+    content: "\e012";
+}
+.flaticon-soporte-laptopcomputer14:before {
+    content: "\e013";
+}
+.flaticon-soporte-laptopcomputer15:before {
+    content: "\e014";
+}
+.flaticon-soporte-suitcase68:before {
+    content: "\e015";
+}
+.flaticon-soporte-worker39:before {
+    content: "\e016";
+}
+.flaticon-soporte-wrench104:before {
+    content: "\e017";
+}
+.flaticon-soporte-wrench105:before {
+    content: "\e018";
+}
+.flaticon-soporte-wrenches:before {
+    content: "\e019";
+}
+.flaticon-soporte-wrenches6:before {
+    content: "\e01a";
+}
+.flaticon-soporte-wrenches7:before {
+    content: "\e01b";
+}
+.flaticon-soporte-wrenches8:before {
+    content: "\e01c";
+}
+.flaticon-soporte-wrenches9:before {
+    content: "\e01d";
+}
+

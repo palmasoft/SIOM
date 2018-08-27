@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <vista>
+        <titulo_vista>titulod e la vista</titulo_vista>
+        <descripcion_vista>corta descripcion de lo que se hace en la vista</descripcion_vista>
+        <pasos>
+            <paso>
+                <icono>icono</icono>
+                <nombre>nombre</nombre>                
+                <componente>componente</componente>
+                <controlador>controlador</controlador>
+                <accion>accion</accion>
+            </paso>
+        </pasos>
+    </vista>
+</root>

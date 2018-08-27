@@ -1,0 +1,18 @@
+<VISTA>
+    <titulo_vista>Bienvenidos</titulo_vista>
+    <descripcion_vista>Accesos directos, mensajes y estadisticas rapidas.</descripcion_vista>    
+    <pasos>
+        <icono>fa fa-dashboard</icono>
+        <nombre>Panel de Bienvenida</nombre>                
+        <componente>estadisticas</componente>
+        <controlador>resumen</controlador>
+        <accion>panel_control</accion>
+    </pasos>
+    <pasos>
+        <icono>fa fa-stats</icono>
+        <nombre>Estadisticas Generales</nombre>                
+        <componente></componente>
+        <controlador></controlador>
+        <accion></accion>
+    </pasos>    
+</VISTA>

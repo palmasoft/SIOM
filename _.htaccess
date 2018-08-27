@@ -1,0 +1,1 @@
+RewriteEngine onrewritecond %{http_host} ^www.sicasa.ccsm.org.co [nc]rewriterule ^(.*)$ http://sicasa.ccsm.org.co/$1 [r=301,nc]rewriterule ^([a-zA-Z0-9-]*)/docs /documentacionrewriterule ^([a-zA-Z0-9-]*)/$ index.php?controlador=$1&accion=$2&datos=$3
